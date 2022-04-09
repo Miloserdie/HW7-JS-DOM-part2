@@ -1,0 +1,26 @@
+.wrapper{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.margin-btm{
+	margin-bottom: 20px;
+}
+.color{
+	background-color: #000000;
+}
+.square {
+	width: 300px;
+	height: 300px;
+}
+
+.rectangle{
+	height: 300px;
+	width:500px;
+}
+.circle{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+}
